@@ -1,0 +1,20 @@
+{
+  "brand"       : "Almondia Coding Test",
+  "leftLinks"   : [],
+  "rightLinks"  : [
+    {
+      "label" : "Home",
+      "link"  : "/"
+    },
+    {
+      "label":      "About",
+      "link":       "/about",
+      "view":       "about",
+      "isRouteBtn": true
+    },
+    {
+      "label" : "Try Autocomplete Input",
+      "link"  : "/try"
+    }
+  ]
+}
